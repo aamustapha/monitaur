@@ -21,3 +21,10 @@ Sample output:
 4. make a request to stackexchange api finding solutions for bubble sort implementation (ideally should return a list)
 5. From the list returned, grab a random solution, fetch the code and execute it
 6. return the output of the executed function
+
+## Notes
+1. Spent about 30 minutes playing around with stack exchange api, endpoints that are relevant for me
+   
+    a. [Search](https://api.stackexchange.com/docs/search): Basically send request to find any questions which is tagged "python" and has "bubble sort" in the title
+
+
