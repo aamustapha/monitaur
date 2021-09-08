@@ -34,3 +34,8 @@ Sample output:
 3. What's left is to implement reading list from input,
    passing them to used sortFunction and getting back the result,
    adding unit tests and general code refactor
+   
+   
+## Rooms for improvement
+1. `exec` is quite a deadly function, we need to use with caution
+2. Improve how we choose answers (a simple def check is not enough)
