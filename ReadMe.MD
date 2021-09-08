@@ -27,4 +27,8 @@ Sample output:
    
     a. [Search](https://api.stackexchange.com/docs/search): Basically send request to find any questions which is tagged "python" and has "bubble sort" in the title
 
+2. Spent the next 80 minutes writing code and implementing stuff, 
 
+3. What's left is to implement reading list from input,
+   passing them to used sortFunction and getting back the result,
+   adding unit tests and general code refactor
