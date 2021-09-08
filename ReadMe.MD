@@ -26,8 +26,10 @@ Sample output:
 1. Spent about 30 minutes playing around with stack exchange api, endpoints that are relevant for me
    
     a. [Search](https://api.stackexchange.com/docs/search): Basically send request to find any questions which is tagged "python" and has "bubble sort" in the title
-
-2. Spent the next 80 minutes writing code and implementing stuff, 
+   
+    b. [Answer on question](https://api.stackexchange.com/docs/answers-on-questions): Retrieve all answers on a question of interest
+   
+2. Spent the next 80-90 minutes writing the code , 
 
 3. What's left is to implement reading list from input,
    passing them to used sortFunction and getting back the result,
